@@ -370,6 +370,8 @@ models:
           - stackbit_page_meta
         label: Seo
     labelField: title
+    singleInstance: true
+    file: ''
   post:
     type: page
     urlPath: /blog/{slug}
