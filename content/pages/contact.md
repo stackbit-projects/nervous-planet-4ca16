@@ -54,7 +54,7 @@ sections:
           can be contacted.
         is_required: true
       - input_type: text
-        name: lorem-ipsum
+        name: lorem-ipsumtest
         label: test
         default_value: lorem-ipsum
         options: []
