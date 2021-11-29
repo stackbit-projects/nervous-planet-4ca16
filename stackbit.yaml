@@ -455,6 +455,7 @@ models:
           - stackbit_page_meta
         label: Seo
     labelField: title
+    hideContent: true
   advanced:
     type: page
     label: Advanced page
